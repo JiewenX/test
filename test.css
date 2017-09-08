@@ -5,6 +5,6 @@ body{
 
 .parent {
   display: flex;
-  height: 300px; /* Or whatever */
+  height: 600px; /* Or whatever */
   background-image:url(1.jpg);
 }
